@@ -1,0 +1,5 @@
+eventRec;Prague;8.6.2021;9:00;18:00;petrkoller@gmail.com,aoi@haha.joke;recurring;5;2
+test;Kladno;1.6.2021;15:00;15:40;karel@kemo.com,halalaj@dafa.c,kooolo@fdasfdsa.cz;recurring;6;4
+eventNor;Brno;6.6.2021;15:20;19:49;paprika@seznam.cz;normal
+random;Brno;3.8.2020;1:59;3:15;brnak@brno.com;normal
+Running;Kladno;2.2.2019;8:00;9:00;franta@pepa.sk,kol.lol@habab.zy;recurring;14;7
